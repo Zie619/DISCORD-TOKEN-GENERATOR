@@ -8,5 +8,4 @@ I'm selling my gen as an app or source code - contact me on telegram:
 
 selling only 10 units because I don't want it to get online and get patched. 
 
-https://t.me/DonKishot92
-
+*NOT MAINTAINED*
